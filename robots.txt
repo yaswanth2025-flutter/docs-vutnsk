@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pbgg4p.goib138.site/sitemap.xml
